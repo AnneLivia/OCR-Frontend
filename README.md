@@ -8,5 +8,10 @@
 
 Using Cloud Vision API to perform OCR in images. API = [Backend](https://github.com/AnneLivia/CloudVisionAPI-Backend)
 
+## Interface
+
+<img src="https://user-images.githubusercontent.com/31932673/212498588-aadfa4e5-9d0d-4486-9cad-9de1937dba2b.PNG" width=50% />
+
+
 <br/>
 <p align="center">© Developed by Anne Livia</p>
