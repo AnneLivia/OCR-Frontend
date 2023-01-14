@@ -1,6 +1,5 @@
 import { PacmanLoader } from 'react-spinners';
 
-const style = {};
 const CustomSpinner = ({ loading }) => {
   return (
     <PacmanLoader
